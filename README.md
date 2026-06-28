@@ -6,9 +6,9 @@
 [![DOI](https://raster.shields.io/badge/DOI-10.1016%2Fj.aiig.2026.100246-blue.svg)](https://doi.org/10.1016/j.aiig.2026.100246)
 [![DOI](https://zenodo.org/badge/1282764637.svg)](https://zenodo.org/badge/latestdoi/1282764637)
 
-This repository provides an Explainable AI (XAI) framework for interpreting and enhancing the performance of the PhaseNet microseismic event detection model. It contains the refactored code accompanying the manuscript: 
+This repository provides an Explainable AI (XAI) framework for interpreting and enhancing the performance of the PhaseNet microseismic event detection model. It contains the refactored code accompanying the manuscript:
 
-Abdullin, A., Anikiev, D., & Waheed, U. b. (2026). Explainable AI for microseismic event detection. Artificial Intelligence in Geosciences, 100246. DOI: [10.1016/j.aiig.2026.100246](https://doi.org/10.1016/j.aiig.2026.100246).
+> Abdullin, A., Anikiev, D., & Waheed, U. b. (2026). Explainable AI for microseismic event detection. Artificial Intelligence in Geosciences, 100246. DOI: [10.1016/j.aiig.2026.100246](https://doi.org/10.1016/j.aiig.2026.100246)
 
 ```bibtex
 @article{AbdullinEtAl2026Explainable,
@@ -21,6 +21,8 @@ Abdullin, A., Anikiev, D., & Waheed, U. b. (2026). Explainable AI for microseism
  author = {Abdullin, Ayrat and Anikiev, Denis and Waheed, Umair Bin},
 }
 ```
+
+If you use this code in your research, please cite the above manuscript.
 
 ## Features
 
