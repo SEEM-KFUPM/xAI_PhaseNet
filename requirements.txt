@@ -1,0 +1,8 @@
+torch>=1.9.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+scikit-learn>=0.24.0
+seisbench>=0.1.9
+packaging>=20.0
+tqdm
+opencv-python

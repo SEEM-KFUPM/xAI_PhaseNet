@@ -1,0 +1,16 @@
+name: xai-phasenet-cpu
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9,<3.12
+  - pip
+  - pytorch-cpu>=1.9.0
+  - numpy>=1.19.0
+  - matplotlib>=3.3.0
+  - scikit-learn>=0.24.0
+  - packaging>=20.0
+  - tqdm
+  - opencv
+  - pip:
+      - seisbench>=0.1.9
+      - -e .

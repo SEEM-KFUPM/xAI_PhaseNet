@@ -1,0 +1,18 @@
+name: xai-phasenet-gpu
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10,<3.12
+  - pip
+  - numpy>=1.19.0
+  - matplotlib>=3.3.0
+  - scikit-learn>=0.24.0
+  - packaging>=20.0
+  - tqdm
+  - opencv
+  - pip:
+      - --index-url https://download.pytorch.org/whl/cu128
+      - --extra-index-url https://pypi.org/simple
+      - torch==2.7.0+cu128
+      - seisbench>=0.1.9
+      - -e .
