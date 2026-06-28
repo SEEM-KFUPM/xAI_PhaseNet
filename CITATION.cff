@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  PhaseNet XAI: Explainable AI for microseismic event
+  detection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Abdullin
+    given-names: Ayrat
+    orcid: 'https://orcid.org/0000-0002-1300-046X'
+    affiliation: >-
+      Department of Geosciences, King Fahd University of
+      Petroleum and Minerals, Dhahran, Saudi Arabia
+  - family-names: Anikiev
+    given-names: Denis
+    orcid: 'https://orcid.org/0000-0002-4729-2659'
+    affiliation: >-
+      Center for Integrative Petroleum Research, King Fahd
+      University of Petroleum and Minerals, Dhahran, Saudi
+      Arabia
+identifiers:
+  - type: doi
+    value: 10.1016/j.aiig.2026.100246
+    description: The main manuscript related to the work
+repository-code: 'https://github.com/SEEM-KFUPM/xAI_PhaseNet'
+abstract: >-
+  An Explainable AI (XAI) framework for interpreting and
+  enhancing the performance of the PhaseNet microseismic
+  event detection model.
+keywords:
+  - PhaseNet
+  - Microseismic detection
+  - Explainable AI
+  - Grad-CAM
+  - SHAP
+  - Phase picking
+  - Interpretability
+license: MIT
+version: '1.0'
