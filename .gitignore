@@ -217,12 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Ignore large data and outputs
-datasets/
+# Ignore notebooks, documents and outputs
 output/
 documents/
-
-# Ignore notebooks
 notebooks/
 
 # Agents

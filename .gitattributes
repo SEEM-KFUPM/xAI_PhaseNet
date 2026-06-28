@@ -1,0 +1,2 @@
+datasets/** filter=lfs diff=lfs merge=lfs -text
+xai_phasenet/original.pt.v2 filter=lfs diff=lfs merge=lfs -text
