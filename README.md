@@ -4,6 +4,7 @@
 ![PyTorch 2.7.0](https://img.shields.io/badge/PyTorch-2.7.0-EE4C2C.svg?logo=pytorch&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![DOI](https://raster.shields.io/badge/DOI-10.1016%2Fj.aiig.2026.100246-blue.svg)](https://doi.org/10.1016/j.aiig.2026.100246)
+[![DOI](https://zenodo.org/badge/1282764637.svg)](https://zenodo.org/badge/latestdoi/1282764637)
 
 This repository provides an Explainable AI (XAI) framework for interpreting and enhancing the performance of the PhaseNet microseismic event detection model. It contains the refactored code accompanying the manuscript: 
 
